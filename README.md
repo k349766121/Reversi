@@ -10,6 +10,7 @@ Some starting code in the backend was provided by CS246E, an enriched CS course 
 cd backend
 ./program
 cd frontend
+npm install
 npm run dev
 
 # How to compile
