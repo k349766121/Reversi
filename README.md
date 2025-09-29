@@ -1,6 +1,6 @@
 # Reversi
 Reversi
-This program is a Reversi game made by Xinhao(Ken) Wang. Uses C++ as the backend and react.js as the frontend. Communicates between the backend and frontend using API. Observer pattern and OOP principles were well considered.
+This program is a Reversi game uses C++ as the backend and react.js as the frontend. Communicates between the backend and frontend using API. Observer pattern and OOP principles were well considered.
 Rules for this game be found at https://en.wikipedia.org/wiki/Reversi. This code version allows players to play any move on the board.
 
 # Acknowledgment
